@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    font-family: 'Alkatra', cursive;
+}
+
+.imagem-1 {
+    width: 380px;
+    filter: invert();
+    display: flex;
+    margin: auto;
+}
+
+h1 {
+    color: #ffb6c1;
+    text-align: center;
+}
+
+h3 {
+    color: ##ffb6c1;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.imagem2 {
+    width: 380px;
+    display: flex;
+    margin: auto;
+
+}
+
+.lista {
+    color: white;
+    display: flex;
+    Flex-direction: column;
+}
+
+.topicos {
+    color: white;
+    text-align: left;
+}
+
+.subtitulo {
+    color: #ffb6c1;
+    text-align: center;
+}
+
+.itens {
+    color: white;
+    text-align: center;
+}
+
+.subtopico {
+    color: #90ee90
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
